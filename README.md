@@ -89,6 +89,7 @@ Wiring for Digispark board.
    | | 3 |  | *used in USB comm*
    | IN/S | 4 |  | *used in USB comm*
    | | 5 |  | *low voltage, don't use*
+   
 Check [Digistump documentation](http://digistump.com/wiki/digispark/quickref) for more info
   
 If you are using other Arduino boards such as Nano or Pro Mini, or using atmel chip for custom pcb, you will need to decide the wiring on your own.
