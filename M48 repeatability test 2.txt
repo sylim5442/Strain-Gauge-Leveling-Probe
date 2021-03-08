@@ -1,0 +1,25 @@
+Send: M48 P10 V2
+Recv: M48 Z-Probe Repeatability Test
+[...]
+Recv: 1 of 10: z: -0.069
+[...]
+Recv: 2 of 10: z: -0.071
+[...]
+Recv: 3 of 10: z: -0.076
+[...]
+Recv: 4 of 10: z: -0.071
+[...]
+Recv: 5 of 10: z: -0.063
+[...]
+Recv: 6 of 10: z: -0.070
+[...]
+Recv: 7 of 10: z: -0.070
+[...]
+Recv: 8 of 10: z: -0.070
+[...]
+Recv: 9 of 10: z: -0.069
+[...]
+Recv: 10 of 10: z: -0.073
+Recv: Finished!
+Recv: Mean: -0.069850 Min: -0.076 Max: -0.063 Range: 0.013
+Recv: Standard Deviation: 0.003075
