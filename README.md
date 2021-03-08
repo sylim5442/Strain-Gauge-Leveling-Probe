@@ -1,6 +1,3 @@
-# Still under construction 
-## Message Me If you need info ASAP
-
 # Strain-Gauge-Leveling-Probe
 Using strain gauge, HX711 ADC and Arduino/Digispark for automatic bed leveling of the 3D printer, with improved trigger algorithm.  
 ![FormatFactoryDSC03496](https://user-images.githubusercontent.com/75633795/110341132-fc206b00-8064-11eb-979c-ef66c7f1e925.jpg)
