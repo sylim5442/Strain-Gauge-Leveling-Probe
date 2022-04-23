@@ -156,4 +156,9 @@ Theoritically, by lowering the probing speed we can get better resolution, but t
    Marlin and slicer is configured to perform automatic nozzle brushing before homing and probing. 
 
    ![Screenshot 2021-03-09 002330](https://user-images.githubusercontent.com/75633795/110349500-bc11b600-806d-11eb-8556-dda79681f347.png)
+   
+* Filament tugging
+
+   With direct drive extruder and filament spool on top of printer frame, the filament will tug the extruder when extruding, or 
+   during z-axis motion. This could triggers the probe as well as messing with the accuracy of the probe.
 
