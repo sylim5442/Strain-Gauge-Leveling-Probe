@@ -160,5 +160,7 @@ Theoritically, by lowering the probing speed we can get better resolution, but t
 * Filament tugging
 
    With direct drive extruder and filament spool on top of printer frame, the filament will tug the extruder when extruding, or 
-   during z-axis motion. This could triggers the probe as well as messing with the accuracy of the probe.
+   during z-axis motion. This could triggers the probe as well as messing with the accuracy of the probe. In some case, the probe homes at mid-air.
+   
+   Solution: Disable or 'sleep' the probe except when homing. Use bowden tube.
 
