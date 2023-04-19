@@ -2,7 +2,7 @@
 Using strain gauge, HX711 ADC and Arduino/Digispark for homing and automatic bed leveling (ABL) of 3D printer, with improved trigger algorithm.  
 
 
-<img src="https://user-images.githubusercontent.com/75633795/110341132-fc206b00-8064-11eb-979c-ef66c7f1e925.jpg" width="400" height="600"> 
+<img src="https://user-images.githubusercontent.com/75633795/110341132-fc206b00-8064-11eb-979c-ef66c7f1e925.jpg" width="50%" height="50%"> 
 
 I was amazed by the [Creality CR6-SE ABL](https://www.kickstarter.com/projects/3dprintmill/creality-cr-6-se-leveling-free-diy-3d-printer-kit) which use strain gauge to detect load/pressure on nozzle.
 This method of probing has no probe-nozzle offset and shouldn't be affected by temperature of the bed.
@@ -10,7 +10,7 @@ Strain gauge probing is used in CNC touch probe before 3D printer was invented.
 
 CNC Touch Probe
 
-<img src="https://user-images.githubusercontent.com/75633795/110230715-c0df4880-7f4d-11eb-8d78-624114637688.jpg" width="400" height="609">
+<img src="https://user-images.githubusercontent.com/75633795/110230715-c0df4880-7f4d-11eb-8d78-624114637688.jpg" width="50%" height="50%">
 
 Some makers applied this concept on their design in the past
 * Palmerr23 - https://www.instructables.com/Reprap-Load-Cell-Z-Probe/
